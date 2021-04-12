@@ -3,6 +3,9 @@ Binary file for M3 note and various tools for unbrick he phone
 
 Flyme 6.3.5.0A
 
+Files are in below release:
+https://github.com/99degree/android_vendor_meizu_m3note/releases/tag/20210412
+
 Below are rom dump files for unbrick:
  boot.img                     cache.img
 custom.img                   devinfo.img                  expdb                        file_contexts.bin
