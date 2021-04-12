@@ -60,3 +60,10 @@ c:\d_drive\bypass_utility>
 Such that the phone is DA auth disabled. Run SPFlash (suggested SP_Flash_Tool_v5.2052_Win) then setup download page for auth file, da, scatter file etc. Make sure to set preloader file correctly, otherwise cant continus flashing.
 
 Done!
+
+For newer vendor/treble support, a phone manufactor had done the MT6755 soc for treble. Below is the link for MTK-SPFlash:
+http://leagooftp.com.my/S%20series/S9/P7M2FA.LGE.HB.O1.HJ.P5PA.0718.V3.04.zip
+
+it does contain unstriped kernel, dtb, overlay, and vendor binary enough for porting.
+https://github.com/99degree/android_kernel_m3note have a working-in-progress v3.18 kernel for m3 note that able to enter twrp.
+
