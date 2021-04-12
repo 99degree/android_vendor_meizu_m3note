@@ -1,5 +1,5 @@
 # android_vendor_meizu_m3note
-Binary file for M3 note and various tools for unbrick he phone
+Binary file for M3 note and various tools for unbrick the phone
 
 Flyme 6.3.5.0A
 
